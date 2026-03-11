@@ -22,4 +22,4 @@
 
 # 7 Linkedin Post
 > Submit the LinkedIn post URL
-> [LinkedIn post URL]
+> https://www.linkedin.com/posts/narendra-anbazhagan2106_4medcare-medicalrobotics-aiinhealthcare-ugcPost-7436070889651150848-SH_6?utm_source=share&utm_medium=member_ios&rcm=ACoAAEbVpkUBdlmhKl4D4GgLqNAlyLIzHcpYMNo
